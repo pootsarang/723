@@ -14,3 +14,44 @@ a{
     color: #333;
     text-decoration: none;
 }
+
+.wrap{
+    width: 1200px;
+    background-color: beige;
+    margin: auto;
+}
+
+
+.musical{
+    width: 100%;
+    display: flex;
+    gap: 20px;
+}
+
+.mammamia{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.mammamia-list-info{
+    text-align: center;
+}
+
+a{
+    display: block;
+}
+
+img{
+    width: 100%;
+    display: block;
+}
+
+button{
+    border-radius: 8px;
+    background-color: #fff;
+    color: rgba(124, 124, 124, 0.7);
+    border-style: none;
+    padding: 3px 5px;
+    margin: 10px 0px;
+}
